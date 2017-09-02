@@ -32,5 +32,4 @@ function main() {
   ar = ar.map(Number);
   var result = simpleArraySum(n, ar);
   process.stdout.write("" + result + "\n");
-
 }
